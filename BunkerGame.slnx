@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GameApp/GameApp.csproj" />
+  <Project Path="GameCore/GameCore.vcxproj" Id="db0a25ac-da2d-44cc-a4ad-b9641c4d0e7a" />
+</Solution>
